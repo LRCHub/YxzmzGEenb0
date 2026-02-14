@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "黄昏メモリーロード",
+  "base_artist": "Aooo",
+  "createdAt": "2026-02-14T02:35:19.926610Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黄昏メモリーロード",
+      "artist": "Aooo",
+      "has_synced": false,
+      "path": "select/pl_01_黄昏メモリーロード_Aooo.txt"
+    }
+  ]
+}
